@@ -16,12 +16,15 @@
 
  - 🔭 a passionate and driven third-year Computer Science Engineering student
 - 🌱 Currently learning Java
-- 🤝 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: Her/She
+- 🤝 2024 Goals: backend theory
 - ⚡ Fun fact: I come here for the green squares
-- 🔧 Languages and Tools I use:  Languages: JavaScript, Python, Java, C++
+- 🔧 Languages and Tools I use:
+  -                               Languages: JavaScript, Python, Java, C++
+  
                                   Web Development: HTML, CSS, React, Node.js
+  
                                   Database: MySQL, MongoDB
+  
                                   Tools: Git, Docker, VS Code
 
 
