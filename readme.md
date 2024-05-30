@@ -14,15 +14,16 @@
 
  <img src="https://activity-graph.herokuapp.com/graph?username=ektaarora16&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
- - 🔭 A First Year Undergrad, Programmer, Developer!!
+ - 🔭 a passionate and driven third-year Computer Science Engineering student
 - 🌱 Currently learning Java
 - 🤝 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I come here for the green squares
-- 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+- 🔧 Languages and Tools I use:  Languages: JavaScript, Python, Java, C++
+                                  Web Development: HTML, CSS, React, Node.js
+                                  Database: MySQL, MongoDB
+                                  Tools: Git, Docker, VS Code
+
 
 📫 How to reach me:<br>
 <code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ekta-arora-18b3461b1/)</code> 
